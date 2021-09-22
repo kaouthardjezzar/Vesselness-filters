@@ -1,6 +1,6 @@
 # Vesselness-filters
 
-- The implementation of the three vessel filtering methods which are : Hessiand3D, Sato and frangi method using a small data sample. 
+- The implementation of the three vessel filtering methods which are : Hessiand3D, Sato and frangi method using a small data sample, Python and the ITK library
 
 - Generation of ROC curve to compare between the three methods. 
 
